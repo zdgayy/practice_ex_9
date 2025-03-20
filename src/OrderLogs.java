@@ -58,6 +58,18 @@ class HandleOrders {
             System.out.println(pizza);
         }
     }
+
+
+    public void takeOrder() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'takeOrder'");
+    }
+
+
+    public void createOrderSummary() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'createOrderSummary'");
+    }
 }
 
 
